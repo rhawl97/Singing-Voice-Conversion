@@ -4,7 +4,7 @@
 
 
 ### Preprocessing
-- [Spliting](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/time_cutting.ipynb)
+- [Splitting](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/time_cutting.ipynb)
   <br>짧은 시간 단위로 학습이 필요할 때에는 노래를 원하는 초 단위로 잘라줍니다.
 - [Voice Separation](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/Vocal_Separation_JH.ipynb)
   <br>Vocal이 있는 음원 파일과 Vocal이 없는 Inst 파일을 input으로 넣으면 Vocal만 extract 되도록 합니다.
