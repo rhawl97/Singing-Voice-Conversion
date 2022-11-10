@@ -4,12 +4,12 @@
 
 
 ### Preprocessing
-- [Splitiing](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/time_cutting.ipynb)
+- [Spliting](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/time_cutting.ipynb)
   <br>짧은 시간 단위로 학습이 필요할 때에는 노래를 원하는 초 단위로 잘라줍니다.
-- [Voice Seperation](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/Vocal_Separation_JH.ipynb)
+- [Voice Separation](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/Vocal_Separation_JH.ipynb)
   <br>Vocal이 있는 음원 파일과 Vocal이 없는 Inst 파일을 input으로 넣으면 Vocal만 extract 되도록 합니다.
    <br> Vocal만 extract된 음원 예시: https://bit.ly/2SZQJdX
-- [Data Autmentation](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/data_augmentation.ipynb)
+- [Data Augmentation](https://github.com/sora-12/Tobigs_music_project/blob/master/Preprocessing/data_augmentation.ipynb)
    <br> Dataset을 증가시키기 위해
    ![preprocessing 그림](https://github.com/sora-12/Tobigs_music_project/blob/master/aug_pic.png)
    3가지 방법을 사용하였습니다.<br>
